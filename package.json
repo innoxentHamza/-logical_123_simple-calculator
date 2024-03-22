@@ -1,0 +1,19 @@
+{
+  "name": "logical_123_simple-calculator",
+  "version": "1.0.2",
+  "description": "a simple calculetor with  Typescript, node.js and inquierr",
+  "main": "main.js",
+  "bin": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hamza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
